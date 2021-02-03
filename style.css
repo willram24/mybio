@@ -1,5 +1,5 @@
     body {
-      background-color:slategrey;
+      background-color: slategrey;
       color: white
     }
 
@@ -13,4 +13,16 @@
       margin-left: auto;
       margin-right: auto;
       width: 50%;
+    }
+
+    .myDiv {
+      width: 1000px;
+      height: 400px;
+      display: inline-block;
+      text-align: center;
+    }
+
+    #favorite {
+      width:fit-content
+      height fit-content
     }
